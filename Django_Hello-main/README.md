@@ -1,7 +1,4 @@
-# Django_Hello
-
 “ Djanjo App ” 
-
 **************************************************************************************
 Instructions for the Running file:
 
